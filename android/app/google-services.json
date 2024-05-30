@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896161749049",
+    "project_id": "vital-8fff2",
+    "storage_bucket": "vital-8fff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896161749049:android:1032437c4b680601cc15e8",
+        "android_client_info": {
+          "package_name": "com.example.vital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf1EGy1S9_621utYP0y7kX8eG9rCtIN5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
